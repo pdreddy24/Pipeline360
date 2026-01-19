@@ -24,6 +24,8 @@ This pipeline addresses those challenges end-to-end.
 ---
 
 ## Architecture
+<img width="1536" height="922" alt="pipeline360" src="https://github.com/user-attachments/assets/fe61beba-8497-4685-8554-00118981d3a2" />
+
 
 ### Data Flow
 ```bash
