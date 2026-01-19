@@ -180,7 +180,7 @@ dbt debug
 dbt build
 ```
 ---
-## Project Value
+## Project Valuation
 
 This project demonstrates:
 
